@@ -1,3 +1,5 @@
+//DOM OLYMPICS START Story Point 30.5
+
 var header = document.getElementById("header")  //  <header id="header">  </header>  
 
 header.innerHTML += "<h1>JavaScript Made This!!</h1>";    //  <header id="header">  <h1></h1>   </header>
