@@ -1,4 +1,4 @@
-
+//DOM DEBUG Story Point 32.5
 
 
 const colors = ["red", "blue", "green"];  // Colors to Choose From
